@@ -43,3 +43,12 @@ git push -u origin main
 Custom implementation of the example reusable project at 
 [datafun-01-util](https://github.com/denisecase/datafun-01-utils)
 
+
+## Steps for Project Initialization
+# Project 3 udpate
+  - Create a New Repository From Scratch
+  - Use Git to clone the new repository to your local machine
+  - Add files such as .gitignore and requirements.txt
+  - Use Git to add, commit, and push your new files to GitHub
+  - eate a Local Python Virtual Environment for your project
+
