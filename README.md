@@ -50,5 +50,5 @@ Custom implementation of the example reusable project at
   - Use Git to clone the new repository to your local machine
   - Add files such as .gitignore and requirements.txt
   - Use Git to add, commit, and push your new files to GitHub
-  - eate a Local Python Virtual Environment for your project
+  - Create a Local Python Virtual Environment for your project
 
