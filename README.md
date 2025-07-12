@@ -51,4 +51,10 @@ Custom implementation of the example reusable project at
   - Add files such as .gitignore and requirements.txt
   - Use Git to add, commit, and push your new files to GitHub
   - Create a Local Python Virtual Environment for your project
+## Steps completed in this project
+# Project update
+  - I learned how to fetch data from the web
+  - We are learned how to process it using appropriate python collections
+  - We also wrote the processed data to files
+    
 
